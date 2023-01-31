@@ -43,6 +43,8 @@ body {
 
 .container-conversor {
   border: 1px solid #DFD0D7;
+  background-color: rgba(159, 159, 211, 0.3);
+
   border-radius: 5px;
 
   width: 480px;
@@ -70,8 +72,10 @@ body {
   margin-bottom: 20px;
   padding: 5px;
 }
-.btn-conversor{
+.btn-conversor {
   all: unset;
+
+  background-color: rgba(7, 44, 88, 0.5);
 
   border: solid #DFD0D7;
   width: 200px;
