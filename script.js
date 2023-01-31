@@ -5,4 +5,4 @@ var valorEmReal = valorEmDolar * cotacaoDoDolar;
 
 valorEmReal = valorEmReal.toFixed(2);
 
-alert(`R$ ${valorEmReal}`);
+//alert(`R$ ${valorEmReal}`);
